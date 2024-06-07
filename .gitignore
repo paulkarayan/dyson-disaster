@@ -1,0 +1,14 @@
+NOTES
+__pycache__/
+.pytest_cache/
+*.pyc
+__pycache__
+.pytest_cache
+.env
+venv/
+.venv/
+env/
+.idea/
+.ruff_cache/
+.DS_Store
+
