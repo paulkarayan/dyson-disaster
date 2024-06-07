@@ -1,0 +1,19 @@
+NOTES
+
+python -m venv venv
+source venv/bin/activate
+
+
+docker-compose up --build
+
+http://127.0.0.1:80
+
+- prompt generation 
+-- need to make sure we add mistral
+
+- prompt saving... along with the user management shit you normally need
+- commenting, display number of comments
+- create points/leaderboard
+
+- style the whole thing
+- figure out the timing at which the bots are unleashed
